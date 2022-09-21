@@ -6,7 +6,7 @@
 
 - Deployed to Polygon
 - Verified with hardhat
-- TypeScript
+- Solidity and TypeScript
 
 ```Solidity 
 // SPDX-License-Identifier: MIT
