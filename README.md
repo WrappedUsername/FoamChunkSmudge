@@ -7,6 +7,7 @@
 - Deployed to Polygon
 - Verified with hardhat
 - Solidity and TypeScript
+- Docker
 
 ```Solidity 
 // SPDX-License-Identifier: MIT
