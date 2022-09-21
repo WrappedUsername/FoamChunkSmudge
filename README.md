@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Foam Chunk Smudge - smart contract deployed to Polygon
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FoamChunkSmudge&label=Profile%20views&color=0e75b6&style=flat" alt="wrappedusername" /> </p>
