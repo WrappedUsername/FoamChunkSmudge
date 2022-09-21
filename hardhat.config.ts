@@ -21,9 +21,9 @@ const config: HardhatUserConfig = {
     },
     polygon: {
       url: "https://polygon-mainnet.infura.io/v3/${INFURA_API_KEY}",
-      
     }
   },
+  
   etherscan: {
     apiKey: {
       polygon: "${ETHERSCAN_API_KEY}",
